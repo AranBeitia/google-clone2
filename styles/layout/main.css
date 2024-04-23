@@ -1,0 +1,12 @@
+.main {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	height: 80vh;
+}
+
+.main__image {
+	width: 12.5rem;
+	height: auto;
+}
